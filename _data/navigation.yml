@@ -15,8 +15,9 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  #- title: "CV"
-  #  url: /cv/
+  - title: "CV"
+    url: http://kejzlarv.github.io/files/CV_compact.pdf
+  # url: /cv/
     
   #- title: "Guide"
   #  url: /markdown/
