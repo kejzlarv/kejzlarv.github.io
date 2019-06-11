@@ -11,3 +11,6 @@ Michigan State University <br />
 619 Red Cedar Road, C505 Wells Hall <br />
 East Lansing, MI 48824-1027
 </address>
+
+### Email:
+<kejzlarv@msu.edu>
