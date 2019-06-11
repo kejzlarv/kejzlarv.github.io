@@ -8,15 +8,16 @@ main:
 
   #- title: "Teaching"
   #  url: /teaching/    
-    
-  - title: "Research"
-    url: /research/
+   
         
   #- title: "Blog Posts"
   #  url: /year-archive/
     
   - title: "Curriculum Vitae"
     url: http://kejzlarv.github.io/files/CV_compact.pdf
+    
+  - title: "Research"
+    url: /research/
     
   - title: "Contact"
     url: /contact/
