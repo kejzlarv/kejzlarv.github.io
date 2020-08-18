@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vojtech Kejzlar"
 title_separator          : "-"
 name                     : &name "Vojtech Kejzlar"
-description              : &description "PhD candidate in the Department of Statistics and Probability at Michigan State University"
+description              : &description "Assistant Professor in the Department of Mathematics and Statistics at Skidmore College"
 url                      : https://kejzlarv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kejzlarv/kejzlarv.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : #"Vojtech Kejzlar"
   avatar           : "VojtechKejzlar_June2019.jpeg"
-  bio              : "Ph.D. candidate in the Department of Statistics and Probability at Michigan State University"
-  location         : "East Lansing, Michigan"
+  bio              : "Assistant Professor in the Department of Mathematics and Statistics at Skidmore College"
+  location         : "Saratoga Springs, New York"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=Wq9D-3gAAAAJ&hl=en&oi=ao"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Vojtech_Kejzlar"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-1001-011X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
