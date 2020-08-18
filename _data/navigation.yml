@@ -16,8 +16,8 @@ main:
   - title: "Curriculum Vitae"
     url: http://kejzlarv.github.io/files/CV_compact.pdf
     
-  - title: "Research"
-    url: /research/
+  #- title: "Research"
+  #  url: /research/
     
   - title: "Code"
     url: /code/
