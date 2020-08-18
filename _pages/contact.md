@@ -6,11 +6,11 @@ author_profile: true
 *****
 ### Mailing address:
 <address>
-Department of Statistics and Probability <br />
-Michigan State University <br />
-619 Red Cedar Road, C505 Wells Hall <br />
-East Lansing, MI 48824-1027
+Department of Mathematics and Statistics <br />
+Skidmore College <br />
+815 North Broadway <br />
+Saratoga Springs, NY 12866
 </address>
 
 ### Email:
-<kejzlarv@msu.edu>
+<vkejzlar@skidmore.edu>
