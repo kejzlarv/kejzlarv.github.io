@@ -9,7 +9,7 @@ redirect_from:
 ---
 *****
 
-My name is Vojtech (Vojta) Kejzlar. I am Assistnat Professor of Statistics in the Department of Mathematics and Statistics at Skidmore college.
+My name is Vojtech (Vojta) Kejzlar. I am an Assistnat Professor of Statistics in the Department of Mathematics and Statistics at Skidmore college.
 
 <!-- My name is Vojtech Kejzlar. I am a fifth year Ph.D. candidate in the Department of Statistics and Probability at Michigan State University. Before moving to MSU, I completed a bachelor’s degree in Mathematics at Masaryk University in Czech Republic. I also got a taste of the liberal arts at Beloit College in Wisconsin as an exchange student during 2013-2014 academic year. -->
 
@@ -17,5 +17,6 @@ My name is Vojtech (Vojta) Kejzlar. I am Assistnat Professor of Statistics in th
 
 <!-- I very much enjoy outdoor activities like hiking, climbing, and high altitude mountaineering. I am also always looking for a climbing buddy to join me at the local climbing gym. -->
 
+If you are interested in working with me, feel free to reach out over email.
 
 
