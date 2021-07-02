@@ -5,11 +5,11 @@ author_profile: true
 ---
 *****
 ### Variational Inference and Bayesian Machine Learning:
-This is currently my main research area. I am interested in developing _Variational Bayesian_ methods (an alternative to the standard Bayesian approximation of posterior distributions) for various Bayesian machine learning methods such as Gaussian Process models, Bayesian Model Averagina, and Deep Neural Networks.
+This is currently my main research area. I am interested in developing _Variational Bayesian_ methods (an alternative to the standard Bayesian approximation of posterior distributions) for various Bayesian machine learning methods such as Gaussian Process models, Bayesian Model Averaging, and Deep Neural Networks.
 
 
 ### Uncertainty Quantification:
-The existence of several competing models to solve the same or similar problem is a common scenario across scientific applications. One typically encounters a slew of candidate models during standard regression analysis with multiple covariates. Another widely familiar example is a numerical weather prediction with multitudes of forecasting models available. The routine practice in this situation is to select a single model and then make inference based on this model which ignores a major component of uncertainty - model uncertainty. I am working on a computationally efficient implementations of Bayesian Model Averaging (BMA), which is the natural Bayesian framework when facing a number of alternative models.
+The existence of several competing models to solve the same or similar problem is a common scenario across scientific applications. One typically encounters a slew of candidate models during standard regression analysis with multiple covariates. Another widely familiar example is a numerical weather prediction with multitudes of forecasting models available. The routine practice in this situation is to select a single model and then make inference based on this model which ignores a major component of uncertainty - model uncertainty. I am working on computationally efficient implementations of Bayesian Model Averaging, which is the natural Bayesian framework when facing a number of alternative models.
 
 
 ### Nuclear Physics:
